@@ -44,9 +44,6 @@ module main() {
 
 if (shell == 0) {
   main();
-  translate([0,20,0])
-  rotate([180,0,0])
-    main();
 }
 if (shell == 1) {
   translate([0, -20, -0.3]) {
