@@ -1,5 +1,5 @@
 
-OpenSCAD_Tag_Generator is a project written from scratch to showcase my capabilities of automation with use of OpenSCAD, Conventional CAD software, JavaScript, and Regex.
+OpenSCAD_Tag_Generator is a project written from scratch to showcase my capabilities of automation with use of Conventional CAD software, JavaScript, Regex, and OpenSCAD.
 
 ![image](https://user-images.githubusercontent.com/23152510/177714079-c328457a-4d9c-44cd-9543-13c583cbb3b0.png)
 
