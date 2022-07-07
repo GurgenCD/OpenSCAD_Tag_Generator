@@ -1,0 +1,7 @@
+Instructions on how to use Magnet Tag STL Generator:
+1. Install OpenSCAD(dev snapshot that has the function "textmetrics) and Node.js onto your windows.
+1a. Make sure to install OpenSCAD in a default directory, otherwise you will have to go into Code/index.js and changing the OpenSCAD directory.
+2. Edit regex.txt according to your needs
+2a. Make sure to have 4 rule segments and a [end] block at the end of the text file, regardless if you are using all of them.
+4. Start Run.bat.
+5. Open STLs directory.

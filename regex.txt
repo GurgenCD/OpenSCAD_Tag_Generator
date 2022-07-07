@@ -1,0 +1,33 @@
+[default]
+shell = 0;
+characterspacing = 0.9;
+scalevalz = 1.4;
+fontsize = 32;
+xoffset = -2;
+[/default]
+350
+123123
+asd
+asd
+
+[new_rule]
+characterspacing= 0.85
+scalevalz= 1.3
+fontsize= 25
+[/new_rule]
+sega2
+asd
+
+[new_rule]
+characterspacing= 1.5
+scalevalz= 1.5
+fontsize= 10
+[/new_rule]
+
+[new_rule]
+characterspacing= 1.5
+scalevalz= 1.5
+fontsize= 10
+[/new_rule]
+s
+[end]
