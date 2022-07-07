@@ -4,7 +4,7 @@ OpenSCAD_Tag_Generator is a project written from scratch to showcase my capabili
 ![image](https://user-images.githubusercontent.com/23152510/177714079-c328457a-4d9c-44cd-9543-13c583cbb3b0.png)
 
 # What is the point?
-The idea of this project is to completely automate the creation of alphanumerical identification engraved into predefined mesh files. This could create a lot of possibilities that were previously never explored.
+The idea of this project is to completely automate the creation of alphanumerical identification engraved into predefined mesh files. This could create a lot of possibilities that were previously never explored. Whilst the project requires user input through modification of the instruction file, work could theoretically be done to automate all text to scale exactly into the frame of the mesh file. However due to the time constraints and unreasonable amount of work for what it's worth, it was decided that I would create an interpreter of an instruction file instead.
 
 # How does it work?
 ## OpenSCAD
